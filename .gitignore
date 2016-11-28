@@ -1,0 +1,4 @@
+node_modules
+secrets
+data
+**/project.lock.json
