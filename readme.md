@@ -14,7 +14,7 @@ You must have the package.json at the root of your project and the node_modules 
 
 See the Application Insights docs for full usage. https://docs.microsoft.com/en-us/azure/application-insights/app-insights-nodejs
 
-## C\#
+## C\# 
 
 The `cs-http` functions are C# based and have examples of how to use the SDK.
 
